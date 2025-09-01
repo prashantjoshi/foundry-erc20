@@ -1,5 +1,19 @@
 ## Foundry
-***Add 
+
+## TODO
+
+- [ ] Add Makefile for easier command management
+- [ ] Deploy to Anvil local testnet
+- [ ] Deploy to Ethereum Sepolia testnet (optional)
+- [ ] integrate with web3j
+- [ ] add other functionalities
+    - [ ] minting and burning(supply management)
+    - [ ] pause functionality(transfer only when not paused)
+    - [ ] whitelist/blacklist addresses
+    - [ ] Fee mechanism(transfer fee) during transfer
+    - [ ] Vesting schedule(time locked tokens)
+    - [ ] staking rewards(yield generation)
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
